@@ -1,1 +1,1 @@
-# sample-budger
+# sample-budget
